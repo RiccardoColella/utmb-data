@@ -1,0 +1,25 @@
+{
+  "name": "utmb-data",
+  "version": "1.0.0",
+  "description": "Data collected from UTMB 2022",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiccardoColella/utmb-data.git"
+  },
+  "author": "Riccardo Colella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RiccardoColella/utmb-data/issues"
+  },
+  "homepage": "https://github.com/RiccardoColella/utmb-data#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "jsdom": "^20.0.0",
+    "node-fetch": "^3.2.10"
+  }
+}
